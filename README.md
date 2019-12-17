@@ -1,5 +1,5 @@
 # AndroidAppFinal
-#### This app was created for *cBarista* to take a notes.
+#### This app was created for *Barista* to take a notes.
 
 ## Usage
 ##### Realm
